@@ -9,6 +9,8 @@ It just my note for the automation code from a list of image from a folder conve
 ## Current results
 https://imgur.com/MYhKF3m
 ![https://imgur.com/MYhKF3m](https://user-images.githubusercontent.com/9031339/131091962-368732c4-1172-4964-92aa-2d0bda6cea1d.gif)
+![](https://i.imgur.com/KZRcqvI.jpg)![](https://i.imgur.com/kJF3jEH.jpg)
+
 
 ## Procedure
 ### Module 1:
