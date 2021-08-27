@@ -5,7 +5,19 @@ It just my note for the automation code from a list of image from a folder conve
 ## Source image infomation
 * Numbers: 177
 * EXIF: Has GPS and camera info.
+### Hardware info.
+* GPU: Nvidia GTX 1060 6GB
+* CPU: Intel i7-8700
+* RAM: 64GB
 
+### Execute time
+* Adding photos time: 0.43 sec
+* Aligning photos time: 247.57 sec
+* Building Depth Maps time: 292.87 sec
+* Building DenseCloud time: 541.71 sec
+* Building TiledModel time: 1456.68 sec
+* Creating Web time: 22.50 sec
+Total: 43 min
 ## Current results
 https://imgur.com/MYhKF3m
 ![https://imgur.com/MYhKF3m](https://user-images.githubusercontent.com/9031339/131091962-368732c4-1172-4964-92aa-2d0bda6cea1d.gif)
