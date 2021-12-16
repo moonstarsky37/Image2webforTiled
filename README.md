@@ -1,6 +1,5 @@
 # Image2webforTiled
-It just my note for the automation code from a list of image from a folder convert to model and show on web
-
+Automation code from a list of image from a folder convert to model and show on web with 3D tile model.
 
 ## Source image infomation
 * Numbers: 177
@@ -31,11 +30,11 @@ https://imgur.com/MYhKF3m
 - [x] Auto calibrate camera.
 - [x] Build dense point cloud, depth maps in scripts
 - [x] Build mesh, tiled model and save as a projects in local
-- [ ] Create a GUI for this.
+- [x] Create a GUI for this.
 
 ### Module 2:
 - [x] Create an Cesium web server for demo.
 - [x] Export tiled model from projects with user defined path. (from  module 1)
-- [ ] Let user defined web title and html filename can use in regular expression
+- [x] Let user defined web title and html filename can use in regular expression
 - [x] Auto create new page with user definded name and convert tiled model to cesium server.
-- [ ] Create a GUI for this.
+- [] Create a GUI for this.
